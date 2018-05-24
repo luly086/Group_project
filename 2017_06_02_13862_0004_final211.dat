@@ -1,0 +1,153 @@
+1 47 
+Axon 1: K11, L10, L9
+
+2 4 5 6 14 
+Axon 2: A4, A6, B3, C3, D3, E4
+
+3 7 11 17 
+Axon 3: F10, G10, H3, H4, J3, J6, K3, L4, L5, L6, M6
+
+8 12 
+Axon 4: F10, G10, H10, H6, H7, H9, J11, J7, K10, K9, L5, L6, M6
+
+9 10 23 55 
+Axon 5: H4, L4, L5
+
+13 
+Axon 6: A4, A5, A6, B3, C3, D3, D4, F10, F3, F9
+
+15 
+Axon 7: A4, A5, A6, A8, B5, B6, B8, C4, C9, D9, E4, F10, H7
+
+16 28 73 
+Axon 8: J2, K2, K3
+
+18 
+Axon 9: F10, F11, G10, G6, H10, H4, H6, H7, J11, J6, J7, K9, L5, L6, M6, M8, M9
+
+19 
+Axon 10: D11, D12, E2, E3, E5, E6, E8, F3, F5, G6, H5, H7, J11, L5, M6, M9
+
+20 
+Axon 11: A4, A5, A6, B6, C10, C6, C7, C9, D8, D9, E8, E9, H7
+
+21 22 43 
+Axon 12: D2, D3, E3, F2, G1, G2, H2
+
+24 
+Axon 13: A4, A6, A8, B6, B8, C4, D3, D4, D5, E4, E6, E8, F3, F4, F5, F8, H7
+
+25 
+Axon 14: D2, D3, D4, E5, E6, G2, H1, H2, J2, K2
+
+26 
+Axon 15: K3, L3, L4, M4, M5
+
+27 64 
+Axon 16: C10, C9, E9, F5
+
+29 33 
+Axon 17: J2, J3, L3
+
+30 
+Axon 18: F10, F11, F8, F9, G12, G5, G6, G8, H10, H11, H6, H7, H9, J11, K11, L5, L6, M6
+
+31 
+Axon 19: E8, E9, F10, F11, F8, F9, G10, G12, G8, H12, H7, H9, J10, M9
+
+32 
+Axon 20: E5, F10, F11, F5, G10, G6, H4, H6, H7, J10, J7, K10, K9, L6, L8, L9, M6
+
+34 
+Axon 21: J3, L5, M5
+
+35 
+Axon 22: C11, D12, D2, D3, D4, D5, E2, E4, F3, G6, J2, J7, M9
+
+36 
+Axon 23: F10, F11, F9, G12, G5, G6, G8, K11
+
+37 
+Axon 24: C3, C4, C9, D1, D11, D12, D3, D4, E2, E3, E5, E6, E7, F10, F3, F5, F9, G11, H10, H6, H7, J10, J11, J7, K8, L7
+
+38 60 
+Axon 25: E12, F11, F9, G12, H12, H7, H9, J10
+
+39 
+Axon 26: C3, D1, D11, D12, D2, D3, E2, E3, E4, E5, E6, F3, F4, F5, F6, G10, G5, H5, H6, H7, H9, J10, J11, J6, J9, K8, L7, M8
+
+40 41 
+Axon 27: C11, D11, D12
+
+42 
+Axon 28: D10, E12, E9, F12, G6, H10, H12, H6, H7, J10, J7, K10, K8, L4, L5, L6, L7, M4, M6, M8, M9
+
+44 
+Axon 29: D3, H2, J2
+
+45 
+Axon 30: H2, K3, L3, L5, M6
+
+46 
+Axon 31: J9, K6, K8, K9, L9
+
+48 59 
+Axon 32: D1, D11, E4, E5, F5, G6, H6
+
+49 
+Axon 33: B3, C2, C3, E4
+
+50 52 
+Axon 34: D10, E12, E9, F11, F12, F8, G12, G6, H12, H7, H8, J10
+
+51 56 
+Axon 35: C9, D8, D9
+
+53 
+Axon 36: F10, F11, F5, F8, G12, G6, K9
+
+54 
+Axon 37: A6, A7, A8, C6, E10, E11, E12, E8, E9, F11
+
+57 
+Axon 38: C3, C9, D1, D10, D11, D2, D3, D9, E2, E3, G5, G6, H5, H6, K6, K8, L7
+
+58 
+Axon 39: C4, D1, D2, D3, D4, D5, D6, E5, E6, F3, F4, G2
+
+61 
+Axon 40: A6, A9, B6, B7, B8, B9, C8, D5, E4, E5, E6, E8, F3, F4, F5, H6, J6, J7, L7
+
+62 
+Axon 41: A6, B6, C7, D5, D8, E9
+
+63 
+Axon 42: F11, F9, G12, G5, H12, H7
+
+65 
+Axon 43: H4, J4, L5
+
+66 67 
+Axon 44: A6, A9, B6, B9, C6, D9
+
+68 
+Axon 45: A6, A9, B10
+
+69 
+Axon 46: D10, E12, F12, G6, G8, H11, H12, H4, H5, H6, H7, J10, J6, J7, L7
+
+70 
+Axon 47: H3, J3, J4, K3, K4, L4
+
+71 
+Axon 48: B5, C6, D9, E1, E4, E5, E6, E7, F12, F3, F4, F5, H3, H4, J3, J6, L7, L8, M7
+
+72 74 
+Axon 49: J5, L5
+
+75 
+Axon 50: C4, D12, D3, D4, D5, E3, E4, E5, E6, E8, F3, F5, F6, G11, H6, J11
+
+76 
+Axon 51: E6, E8, G6, J3
+
